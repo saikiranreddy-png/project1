@@ -1,4 +1,4 @@
-echo "# project1" > README.md
-git add README.md
-git commit -m "Add README"
-git push
+# project1
+
+This is a Python project created by Saikiranreddy.  
+The file `inter.py` contains the initial implementation.
